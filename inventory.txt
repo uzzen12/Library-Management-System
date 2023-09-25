@@ -1,0 +1,5 @@
+Jane Eyre,Charlotte Bronte,359,$2
+Invisible Man,Ralph Ellison,356,$1.5
+Oliver Twist,Charles Dickens,422,$2.5
+Animal Farm,George Orwell,293,$3
+Harry Potter,J.K Rowling,314,$1
